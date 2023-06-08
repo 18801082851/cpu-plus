@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-11-01 19:49:30
- * @LastEditTime: 2022-11-06 07:07:58
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
  module gen_prod (
 	input [63:0] A,
 	input neg,
