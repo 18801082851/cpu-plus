@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-10-21 01:03:17
- * @LastEditTime: 2022-11-30 16:42:23
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
 `include "../npc/vsrc/include/ysyx_22040210_define.v"
   module ysyx_22040210_data_rom(
 	input	wire									 clk,
