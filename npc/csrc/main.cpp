@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-09-22 10:58:30
- * @LastEditTime: 2022-11-30 20:32:39
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
   #include "Vysyx_22040210_top.h"
   #include "verilated.h"
   #include "verilated_vcd_c.h"
