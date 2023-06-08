@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-11-01 19:48:11
- * @LastEditTime: 2022-11-08 16:43:31
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
 module csa #(parameter width=128) (
 	input [width-1:0] op1,
 	input [width-1:0] op2,
