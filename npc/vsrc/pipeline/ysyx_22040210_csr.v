@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-09-26 11:12:53
- * @LastEditTime: 2022-10-05 18:27:25
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
 `include "../npc/vsrc/include/ysyx_22040210_define.v"
 module ysyx_22040210_csr (
     //Interface with Input
