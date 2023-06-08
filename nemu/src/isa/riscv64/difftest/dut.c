@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-10-28 19:52:53
- * @LastEditTime: 2022-11-01 22:21:27
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
 /***************************************************************************************
 * Copyright (c) 2014-2022 Zihao Yu, Nanjing University
 *
