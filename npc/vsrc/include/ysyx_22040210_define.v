@@ -1,13 +1,3 @@
-/*
- * @Author: ysyx_22040210_wenjiabao
- * @Date: 2022-09-26 11:11:53
- * @LastEditTime: 2022-11-30 15:45:03
- * @Description: define file for ysyx_22040210
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
-
-
 
 
 //*********************GLOABAL DEFINE*********************//
