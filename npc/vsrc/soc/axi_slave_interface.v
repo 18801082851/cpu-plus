@@ -1,11 +1,3 @@
-/*
- * @Author: WenJiaBao-2022E8020282071
- * @Date: 2022-11-13 00:22:15
- * @LastEditTime: 2022-12-01 11:47:45
- * @Description: 
- * 
- * Copyright (c) 2022 by WenJiaBao wenjiabao0919@163.com, All Rights Reserved. 
- */
 `include "../npc/vsrc/include/ysyx_22040210_define.v"
 module axi_slave_interface(
     //Interface with AXI Gloable Chanal   
